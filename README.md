@@ -157,7 +157,7 @@ Following the installation and execution steps will culminate in the successful 
 If you encounter any challenges or have inquiries regarding the program, consult the official Circom documentation or seek assistance from the community.
 
 # Author
-[Sutirtho Chakravorty](somanshusharma888@gmail.com)
+[Somanshu](somanshusharma888@gmail.com)
 
 License
 This project is licensed under the MIT License.
